@@ -1,1 +1,1 @@
-(lm.(ln.(lf.(lx.(m f (ns f x))))))
+((lm.(ln.(lf.(lx.((m f) ((n f) x)))))) (lf.(lx.(f (f x))))) (lf.(lx.(f (f (f x)))))
